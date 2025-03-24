@@ -13,7 +13,7 @@ class Program
         while (userNumber != 0)
         {
             
-            ConsoleWrite("Eneter number: ");
+            Console.Write("Eneter number: ");
             string userResponse= Console.ReadLine();
             userNumber = int.Parse(userResponse);
             

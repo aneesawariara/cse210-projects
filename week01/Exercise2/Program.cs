@@ -10,7 +10,7 @@ class Program
         string userInput = Console.ReadLine();
         int number = int.Parse(userInput);
 
-        string letter = ""
+        string letter = "";
         
         if (number >= 90)
         {
