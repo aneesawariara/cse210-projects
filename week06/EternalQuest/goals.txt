@@ -1,0 +1,3 @@
+ChecklistGoal,Go to temple,Go to the temple for at least a month,50,300,4,0
+Simple Goal,Exercise,Walk 5k steps today,100,False
+Eternal Goal,Devotion,Read Bible for 20 min everyday,80
